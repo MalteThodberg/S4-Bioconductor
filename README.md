@@ -4,7 +4,7 @@ Online resources for learning programming with S4 in R in general, and the parti
 
 ## General S4
 
-- Book - Advanced R: [https://adv-r.hadley.nz/s4.html]
+- Book - Advanced R: https://adv-r.hadley.nz/s4.html
 - Book - R packages: https://r-pkgs.org/man.html#man-s4
 - Book - Advanced Object-Oriented Programming in R: https://www.apress.com/gp/book/9781484229187
 - Vignette - A quick overview of the S4 class system: https://bioconductor.org/packages/release/bioc/vignettes/S4Vectors/inst/doc/S4QuickOverview.pdf
