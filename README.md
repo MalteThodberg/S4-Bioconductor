@@ -7,6 +7,7 @@ Online resources for learning programming with S4 in R in general, and the parti
 - Book - Advanced R: https://adv-r.hadley.nz/s4.html
 - Book - R packages: https://r-pkgs.org/man.html#man-s4
 - Book - Advanced Object-Oriented Programming in R: https://www.apress.com/gp/book/9781484229187
+- Book - R Programming for Bioinformatics: https://www.routledge.com/R-Programming-for-Bioinformatics/Gentleman/p/book/9781420063677
 - Vignette - A quick overview of the S4 class system: https://bioconductor.org/packages/release/bioc/vignettes/S4Vectors/inst/doc/S4QuickOverview.pdf
 - Blogpost - S4: a short guide for the perplexed: https://stuartlee.org/2019/07/09/s4-short-guide/
 - Bioc course - S4 System Development in Bioconductor: https://www.bioconductor.org/help/course-materials/2010/AdvancedR/S4InBioconductor.pdf
