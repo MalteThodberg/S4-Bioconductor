@@ -14,6 +14,7 @@ Online resources for learning programming with S4 in R in general, and the parti
 - Video - The role of S4 in Bioconductor: https://www.youtube.com/watch?v=h-H5zP4h6aw
 - Video - Classes and Methods in R: https://www.youtube.com/watch?v=93N0HdoZW9g
 - Video - S3 and S4 Object in R: https://www.youtube.com/watch?v=YGlse2aW5Ao
+- Blogpost - Practical Guide to the S4 System: https://www.appsilon.com/post/object-oriented-programming-in-r-part-3
 
 ## Bioconductor S4
 
