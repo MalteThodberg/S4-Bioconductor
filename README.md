@@ -27,3 +27,6 @@ Online resources for learning programming with S4 in R in general, and the parti
 - Vignette - Extending the SummarizedExperiment class: http://www.bioconductor.org/packages/release/bioc/vignettes/SummarizedExperiment/inst/doc/Extensions.html
 - Vignette - Implementing A DelayedArray Backend: https://bioconductor.org/packages/release/bioc/vignettes/DelayedArray/inst/doc/02-Implementing_a_backend.html
 
+## Unsorted
+
+https://stackoverflow.com/questions/4143611/sources-on-s4-objects-methods-and-programming-in-r 
